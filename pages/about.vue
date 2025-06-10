@@ -51,6 +51,12 @@
           target="_blank"
         >Public Project Database</a>
       </li>
+      <li>
+        <a
+          href="/docs/how-to-use.md"
+          class="text-blue-400 hover:underline"
+        >How to Use Explorer</a>
+      </li>
     </ul>
 
     <h2 class="text-2xl sm:text-3xl font-semibold mt-10 mb-4">
